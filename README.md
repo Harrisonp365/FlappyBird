@@ -4,3 +4,8 @@ I will add some images below of the starting screen and the game in play.
 
 As of 25/1/21 I have some issues updating github and the new Qt update has introduced a bug I will need to fix before being able to add images of the game.
  
+[Start screen](https://github.com/Harrisonp365/FlappyBird/blob/main/startScreen.jpg)
+
+[Game play](https://github.com/Harrisonp365/FlappyBird/blob/main/duringGame.jpg)
+
+[End Screen/Score screen](https://github.com/Harrisonp365/FlappyBird/blob/main/gameOver.jpg)
