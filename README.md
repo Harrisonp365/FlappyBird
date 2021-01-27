@@ -4,7 +4,7 @@ I will add some images below of the starting screen and the game in play.
 If you would like to download and run the code yourself feel free to, I seemed to have some issues using the MSVC 64 bit compiler but had no isses using the minGW 64.  
 To jump/fly you use a mouse click.
 
-[Start screen](https://github.com/Harrisonp365/FlappyBird/blob/main/startScreen.jpg)
+[Start screen](startScreen.jpg)
 
 [Game play](https://github.com/Harrisonp365/FlappyBird/blob/main/duringGame.jpg)
 
